@@ -18,6 +18,6 @@
     <style name="roundImageView" parent="">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">15dp</item>
-        <item name="color">#FFF2C690</item>
+        <item name="color">@android:color/transparent</item>
     </style>
 </resources>
